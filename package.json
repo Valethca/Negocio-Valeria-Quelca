@@ -1,1 +1,7 @@
-{}
+{
+  "name": "negocio-pokeapi",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node pokeapi/cliente.js"
+  }
+}
